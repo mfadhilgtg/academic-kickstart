@@ -1,14 +1,15 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Team CoSTAR for DARPA SubT Challenge
+summary: Next Generation Autonomous Subsurface Explorers.
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- Robotics
+featured: true
+date: 2019-11-17T07:33:13+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://subt.jpl.nasa.gov/
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Next Generation Autonomous Subsurface Explorers
   focal_point: Smart
 ---

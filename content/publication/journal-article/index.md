@@ -1,28 +1,27 @@
 ---
-title: "An example journal article"
+title: "Hardware in the loop simulation development of guidance system for autonomous underwater glider"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+date: "2019-11-15T07:41:18+01:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-11-15T07:41:18+01:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "6th International Conference on Electrical Engineering and Informatics (ICEEI)"
+publication_short: "IEEE"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Autonomous Underwater Glider (AUG) as a high durability underwater vehicle is typically capable of extremely long missions in the ocean by tracking the desired waypoints using guidance system. Typical AUG's guidance system development requires many costly at-sea trials to evaluate the guidance ability. Simulation provides a cost-effective measure to carry out preliminary component and system testing, thereby reducing the number of potential failures in at-sea trials. This paper presents the Hardware in the Loop (HIL) simulation development of the guidance system for a class of AUG. Guidance through waypoints using Line of Sight (LOS) method guides the AUG to desired waypoints by adjusting the yaw angle. The LOS algorithm was implemented as executable code in BeagleBone Black board. HIL simulation can be simulated using the hardware component (BeagleBone Black) along with AUG's models which were built in MATLAB/SIMULINK. It provides the verification step of the AUG's guidance system before the real deployment in the ocean. The HIL simulation showed that LOS method was able to guide the AUG to desired waypoints despite simulated using some different waypoint schemes and under the effect of ocean currents as a disturbance.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary:
 
 tags:
 - Source Themes
@@ -31,17 +30,17 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://drive.google.com/open?id=1ITHsZ_chztKgpFt3cqC4GvejGUKVXlGB
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/open?id=1BSMx1mY4f22qYo6fzBdVrSlqiS1IRmYv
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: https://drive.google.com/open?id=0B2gK6kH6FuW5dFk2djN6NjczMlk
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
@@ -59,7 +58,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% alert note %}}

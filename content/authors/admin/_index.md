@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: NASA JPL Visiting Researcher
+role: NASA JPL Robotics Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:fadhil.ginting@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://instagram.com/mfadhilgtg
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://instagram.com/mfadhilgtg
 - icon: github
   icon_pack: fab
   link: https://github.com/mfadhilgtg
@@ -56,16 +56,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "fadhil.ginting@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
 - Visitors
-- Grad Students 
+- Grad Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Fadhil

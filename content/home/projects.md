@@ -23,15 +23,18 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "All"
-    tag = "*"
+    tag = "aa"
+    exclude_featured = true
 
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
+    exclude_featured = true
 
   [[content.filter_button]]
     name = "Other"
     tag = "Demo"
+    exclude_featured = true
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
