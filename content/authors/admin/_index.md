@@ -66,4 +66,4 @@ user_groups:
 - Grad Students
 ---
 
-Fadhil
+Hello my name is Fadhil, Graduate Student in ETH Zurich with passion in Robotics and AI. I'm currently working at NASA Jet Propulsion Lab as Visiting Researcher in Pasadena, California.
