@@ -1,14 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Magic Leap"
-summary: "Interactive Mixed Reality Solution for Healthcare Application"
+title: "Yli_blp"
+summary: ""
 authors: []
-tags:
-- Vision
+tags: []
 categories: []
-featured: true
-date: 2019-11-16T07:33:13+01:00
+date: 2019-12-04T09:19:47+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: Magic Leap
-  focal_point: Center
+  caption: ""
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
@@ -29,11 +27,15 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: ""
+slides: ""
 ---

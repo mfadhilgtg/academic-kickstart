@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Glider"
-summary: ""
+summary: "Autonomous Underwater Glider for Marine Exploration"
 authors: []
 tags: []
 categories: []
