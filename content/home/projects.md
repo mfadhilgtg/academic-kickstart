@@ -19,10 +19,10 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  filter_default = 4
   [[content.filter_button]]
     name = "Robotics"
-    tag = "*"
+    tag = "robotics"
     exclude_featured = true
 
   [[content.filter_button]]
@@ -37,7 +37,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Others"
-    tag = "other"
+    tag = "others"
     exclude_featured = true
 
   [[content.filter_button]]

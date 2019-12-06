@@ -2,7 +2,7 @@
 title: Team CoSTAR for DARPA SubT Challenge
 summary: Next Generation Autonomous Subsurface Explorers.
 tags:
-- Robotics
+- robotics
 featured: true
 date: 2019-11-17T07:33:13+01:00
 

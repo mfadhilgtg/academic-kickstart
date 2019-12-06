@@ -5,7 +5,7 @@ title: "Magic Leap"
 summary: "Interactive Mixed Reality Solution for Healthcare Application"
 authors: []
 tags:
-- Vision
+- vision
 categories: []
 featured: true
 date: 2019-11-16T07:33:13+01:00

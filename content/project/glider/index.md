@@ -4,7 +4,7 @@
 title: "Glider"
 summary: "Autonomous Underwater Glider for Marine Exploration"
 authors: []
-tags: []
+tags: [robotics]
 categories: []
 featured: true
 date: 2019-11-15T07:41:18+01:00

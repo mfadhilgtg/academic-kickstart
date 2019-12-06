@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Uro"
-summary: ""
+title: "URO ITB"
+summary: "Robotics Student Organization, Bandung Institute of Technology"
 authors: []
-tags: []
+tags: [social]
 categories: []
 date: 2019-12-04T09:20:07+01:00
 

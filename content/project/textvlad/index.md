@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Textvlad"
-summary: ""
+title: "TextVLAD"
+summary: "Text-based Landmark Visual Descriptor for Place Recognition"
 authors: []
-tags: []
+tags: [vision]
 categories: []
 date: 2019-12-04T09:20:33+01:00
 

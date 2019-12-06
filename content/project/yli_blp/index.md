@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Yli_blp"
-summary: ""
+title: "Assessment Center Project"
+summary: "Young Leaders for Indonesia Breakthrough Leadership Project"
 authors: []
-tags: []
+tags: [social]
 categories: []
 date: 2019-12-04T09:19:47+01:00
 
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+The project is part of Young Leaders for Indonesia(YLI) Breakthrough Leadership Program. My team of 5 participants from different background(Geophysical, Civil, Management, and Electrical Engineering Psychology) was assigned to build assessment tools for promotional process in the company. We successfully designed and built the assessment center focusing on the engineering aspects. The project was directly supervised by coaches from McKinsey & Company.
+Team: Fadhil Ginting, Marsya Chairuna, Bernadete Ryninta, Nadia Amalia, M. Fajri Taswin.

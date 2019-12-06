@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PK123"
-summary: ""
+title: "AR-0 Robot Mascot"
+summary: "Personal Robot of LPDP Scholarship Awardee batch 123(PK 123)"
 authors: []
-tags: []
+tags: [robotics]
 categories: []
-date: 2019-12-04T09:19:31+01:00
+date: 2018-03-04T09:19:31+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

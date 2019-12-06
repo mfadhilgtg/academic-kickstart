@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cern_gdd"
-summary: ""
+title: "CERN Summer Student Project"
+summary: "High Voltage Module for Micro Pattern Gaseous Detector"
 authors: []
-tags: []
+tags: [others]
 categories: []
 date: 2019-12-04T09:19:04+01:00
 
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Like nowhere else on earth! I was delighted to be part of CERN experiments in Geneva. The program offers undergraduate students from across the world to join in the day-to-day work of research teams. The students also have summer student lectures, visits, workshops, poster sessions. In the weekends, you can enjoy beautiful scenery in Switzerland and travel to top destinations in Europe! My project during the internship was to design a program controlled high voltage power supply for micro pattern gaseous detector.

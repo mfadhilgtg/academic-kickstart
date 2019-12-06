@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Yli_plp"
-summary: ""
+title: "IoT Workshop"
+summary: "Personal Leadership Project"
 authors: []
-tags: []
+tags: [social]
 categories: []
 date: 2019-12-04T09:19:43+01:00
 
