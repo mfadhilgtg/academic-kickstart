@@ -18,10 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mobile robotics, mobile computing and programmable matter.
+bio: Visiting Robotics Researcher at NASA Jet Propulsion Laboratory.
 
 interests:
-- Robotics
+- Mobile Robotics
 - Computer Vision
 - Artificial Intelligence
 
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:fadhil.ginting@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:gintingf@student.ethz.ch'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://instagram.com/mfadhilgtg
@@ -56,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fadhil.ginting@gmail.com"
+email: "gintingf@student.ethz.ch"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -66,4 +66,4 @@ user_groups:
 - Grad Students
 ---
 
-Hello my name is Fadhil, Graduate Student in ETH Zurich with passion in Robotics and AI. I'm currently working at NASA Jet Propulsion Lab as Visiting Researcher in Pasadena, California.
+Hello my name is Fadhil, Graduate Student at ETH Zurich with passion in Robotics and AI. I'm currently working at NASA Jet Propulsion Lab as Visiting Researcher in Pasadena, California.

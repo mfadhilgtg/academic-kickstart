@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Building Robots to Explore Earth and Space"
-event: Perhimpunan Pelajar Indonesia (PPI) di Swiss
-event_url: https://pelajarindonesia.ch/
+title: "Teguhkan Eksistensi, Mahasiswa ITB Kembali Wakili Indonesia untuk CERN"
+event: Institut Teknologi Bandung News
+event_url: https://www.itb.ac.id/news/5161.xhtml
 location:
 address:
   street:
@@ -11,18 +11,16 @@ address:
   region:
   postcode:
   country:
-summary: Sharing session in Profile of the Month of PPI Swiss dan Lichtenstein
-abstract: Repost from ppiswissdanliechtenstein instagram post. Halo sobat PPI Swiss dan Liechtenstein! . Akan ada Instagram Live kedua nih untuk program kami yang berjudul Profile of the Month! Setiap bulannya kami akan mengupas tuntas perjalanan inspiratif rekan PPI Swiss dan Liechtenstein. Untuk edisi kali ini (Oktober) akan ada Muhammad Fadhil Ginting, S.T. yang akan menceritakan pengalamannya mengemban studi serta pengalaman kerja magang di salah satu lembaga antariksa terpopuler di dunia. Yuk, jangan lewatkan Profile of the Month October Edition . Dimoderatori oleh Yonika Larasati, Divisi Pendidikan, PPI Swiss dan Liechtenstein. Jangan lupa tanggal dan waktunya ya! Salam perhimpunan!
-
+summary:
+abstract: BANDUNG, itb.ac.id - ITB kembali menyumbangkan kontribusinya bagi dunia akademisi dan riset nuklir internasional. Kali ini, Muhammad Fadhil Ginting (Teknik Elektro 2013) dan I Made Gita Narendra Kumara (Teknik Elektro 2013) yang akan menjalani magang di Conseil Européene pour la Recherche Nucléaire (CERN) atau Organisasi Eropa untuk Riset Nuklir dalam rangkaian acara CERN Summer Student Program (CSSP).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-11-17T08:00:31+01:00
-#date_end: 2019-11-17T07:38:31+01:00
+date: 2016-05-15
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-11-17T07:38:31+01:00
+publishDate: 2020-04-26T02:34:33+02:00
 
 authors: []
 tags: []
@@ -50,8 +48,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video: https://youtu.be/JtZzIlaSGiw
+url_pdf: 
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

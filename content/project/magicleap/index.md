@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Magic Leap"
-summary: "Interactive Mixed Reality Solution for Healthcare Application"
+title: "Magic Leap Mixed Reality for Healthcare Application"
+summary: This research project aims to develop mixed reality application using face recognition and virtual interaction for healthcare industry
 authors: []
 tags:
 - vision
@@ -11,7 +11,7 @@ featured: true
 date: 2019-11-16T07:33:13+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: https://www.ethjuniors.ch/en/who-we-are
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

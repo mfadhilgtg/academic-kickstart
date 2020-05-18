@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Building Robots to Explore Earth and Space"
-event: Perhimpunan Pelajar Indonesia (PPI) di Swiss
-event_url: https://pelajarindonesia.ch/
+title: "IEEEngage: NASA Edition"
+event: IEEE Student Branch ITB
+event_url:
 location:
 address:
   street:
@@ -11,18 +11,17 @@ address:
   region:
   postcode:
   country:
-summary: Sharing session in Profile of the Month of PPI Swiss dan Lichtenstein
-abstract: Repost from ppiswissdanliechtenstein instagram post. Halo sobat PPI Swiss dan Liechtenstein! . Akan ada Instagram Live kedua nih untuk program kami yang berjudul Profile of the Month! Setiap bulannya kami akan mengupas tuntas perjalanan inspiratif rekan PPI Swiss dan Liechtenstein. Untuk edisi kali ini (Oktober) akan ada Muhammad Fadhil Ginting, S.T. yang akan menceritakan pengalamannya mengemban studi serta pengalaman kerja magang di salah satu lembaga antariksa terpopuler di dunia. Yuk, jangan lewatkan Profile of the Month October Edition . Dimoderatori oleh Yonika Larasati, Divisi Pendidikan, PPI Swiss dan Liechtenstein. Jangan lupa tanggal dan waktunya ya! Salam perhimpunan!
-
+summary: Sharing session with IEEE Student Branch Community
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-11-17T08:00:31+01:00
-#date_end: 2019-11-17T07:38:31+01:00
+date: 2020-05-18T00:34:05+02:00
+#date_end: 2020-05-17T00:34:05+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-11-17T07:38:31+01:00
+publishDate: 2020-05-17T00:34:05+02:00
 
 authors: []
 tags: []
@@ -51,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://youtu.be/JtZzIlaSGiw
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

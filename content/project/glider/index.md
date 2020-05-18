@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Glider"
-summary: "Autonomous Underwater Glider for Marine Exploration"
+title: "Autonomous Underwater Glider for Marine Exploration"
+summary: "Autonomous Underwater Glider (AUG) as a high durability underwater vehicle is typically capable of extremely long missions in the ocean by tracking the desired waypoints using guidance system. "
 authors: []
 tags: [robotics]
 categories: []
