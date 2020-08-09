@@ -1,7 +1,18 @@
 ---
 title: "Autonomous Spot: Long-Range Autonomous Exploration of Extreme Environments with Legged Locomotion"
 authors:
-- admin
+- M. Ginting
+- A. Bouman
+- N. Alatur
+- M. Palieri
+- D. D. Fan
+- T. Touma
+- T. Pailevanian
+- S. Kim
+- K. Otsu
+- J. Burdick
+- A. Agha-Mohammadi
+
 date: "2020-08-01T07:41:18+01:00"
 doi: ""
 

@@ -1,7 +1,11 @@
 ---
 title: "Hardware in the loop simulation development of guidance system for autonomous underwater glider"
 authors:
-- admin
+- T. Putri
+- M. Ginting
+- B. Trilaksono
+- E. Hidayat
+- M. Sagala
 date: "2019-11-15T07:41:18+01:00"
 doi: ""
 
