@@ -42,7 +42,7 @@ url_video: https://drive.google.com/open?id=0B2gK6kH6FuW5dFk2djN6NjczMlk
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'ITB Underwater Glider, 2017'
   focal_point: ""
   preview_only: false
 
