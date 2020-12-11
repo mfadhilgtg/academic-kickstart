@@ -1,5 +1,5 @@
 ---
-title: "Hardware in the loop simulation development of guidance system for autonomous underwater glider"
+title: "Hardware In the Loop Simulation Development of Guidance System for Autonomous Underwater Glider"
 authors:
 - T. Putri
 - M. Ginting
@@ -20,9 +20,8 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "6th International Conference on Electrical Engineering and Informatics (ICEEI)"
-publication_short: "IEEE"
 
-abstract: Autonomous Underwater Glider (AUG) as a high durability underwater vehicle is typically capable of extremely long missions in the ocean by tracking the desired waypoints using guidance system. Typical AUG's guidance system development requires many costly at-sea trials to evaluate the guidance ability. Simulation provides a cost-effective measure to carry out preliminary component and system testing, thereby reducing the number of potential failures in at-sea trials. This paper presents the Hardware in the Loop (HIL) simulation development of the guidance system for a class of AUG. Guidance through waypoints using Line of Sight (LOS) method guides the AUG to desired waypoints by adjusting the yaw angle. The LOS algorithm was implemented as executable code in BeagleBone Black board. HIL simulation can be simulated using the hardware component (BeagleBone Black) along with AUG's models which were built in MATLAB/SIMULINK. It provides the verification step of the AUG's guidance system before the real deployment in the ocean. The HIL simulation showed that LOS method was able to guide the AUG to desired waypoints despite simulated using some different waypoint schemes and under the effect of ocean currents as a disturbance.
+abstract: International Conference on Electrical Engineering and Informatics (ICEEI). Abstract. Autonomous Underwater Glider (AUG) as a high durability underwater vehicle is typically capable of extremely long missions in the ocean by tracking the desired waypoints using guidance system. Typical AUG's guidance system development requires many costly at-sea trials to evaluate the guidance ability. Simulation provides a cost-effective measure to carry out preliminary component and system testing, thereby reducing the number of potential failures in at-sea trials. This paper presents the Hardware in the Loop (HIL) simulation development of the guidance system for a class of AUG. Guidance through waypoints using Line of Sight (LOS) method guides the AUG to desired waypoints by adjusting the yaw angle. The LOS algorithm was implemented as executable code in BeagleBone Black board. HIL simulation can be simulated using the hardware component (BeagleBone Black) along with AUG's models which were built in MATLAB/SIMULINK. It provides the verification step of the AUG's guidance system before the real deployment in the ocean. The HIL simulation showed that LOS method was able to guide the AUG to desired waypoints despite simulated using some different waypoint schemes and under the effect of ocean currents as a disturbance.
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -33,11 +32,11 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
+#url: ""
 url_pdf: https://drive.google.com/open?id=1ITHsZ_chztKgpFt3cqC4GvejGUKVXlGB
 url_code: ''
 url_dataset: ''
-url_poster: https://drive.google.com/open?id=1BSMx1mY4f22qYo6fzBdVrSlqiS1IRmYv
+#url_poster: https://drive.google.com/open?id=1BSMx1mY4f22qYo6fzBdVrSlqiS1IRmYv
 url_project: ''
 url_slides: ''
 url_source: ''

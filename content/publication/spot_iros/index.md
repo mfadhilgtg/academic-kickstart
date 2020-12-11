@@ -26,10 +26,9 @@ publishDate: "2020-08-01T07:41:18+01:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Intelligent Robots and Systems(IROS) 2020, Las Vegas NV"
-publication_short: "IROS"
+publication: "International Conference on Intelligent Robots and Systems (IROS), Las Vegas, NV, 2020."
 
-abstract: This paper serves as one of the first efforts to enable large-scale and long-duration autonomy using the Boston Dynamics Spot robot. Motivated by exploring extreme environments, particularly those involved in the DARPA Subterranean Challenge, this paper pushes the boundaries of the state-of-practice in enabling legged robotic systems to accomplish real-world complex missions in relevant scenarios. In particular, we discuss the behaviors and capabilities which emerge from the integration of the autonomy architecture NeBula (Networked Belief-aware Perceptual Autonomy) with next-generation mobility systems. We will discuss the hardware and software challenges, and solutions in mobility, perception, autonomy, and very briefly, wireless networking, as well as lessons learned and future directions. We demonstrate the performance of the proposed solutions on physical systems in real-world scenarios. The proposed solution contributed to winning 1st-place in the 2020 DARPA Subterranean Challenge, Urban Circuit.
+abstract: International Conference on Intelligent Robots and Systems (IROS), NV, 2020. Best Paper Award on Safety, Security, and Rescue Robotics. Abstract. This paper serves as one of the first efforts to enable large-scale and long-duration autonomy using the Boston Dynamics Spot robot. Motivated by exploring extreme environments, particularly those involved in the DARPA Subterranean Challenge, this paper pushes the boundaries of the state-of-practice in enabling legged robotic systems to accomplish real-world complex missions in relevant scenarios. In particular, we discuss the behaviors and capabilities which emerge from the integration of the autonomy architecture NeBula (Networked Belief-aware Perceptual Autonomy) with next-generation mobility systems. We will discuss the hardware and software challenges, and solutions in mobility, perception, autonomy, and very briefly, wireless networking, as well as lessons learned and future directions. We demonstrate the performance of the proposed solutions on physical systems in real-world scenarios. The proposed solution contributed to winning 1st-place in the 2020 DARPA Subterranean Challenge, Urban Circuit.
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -41,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://arxiv.org/pdf/2010.09259.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

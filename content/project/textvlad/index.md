@@ -4,9 +4,9 @@
 title: "TextVLAD"
 summary: "Text-based Landmark Visual Descriptor for Place Recognition"
 authors: []
-tags: [vision]
+tags: [robotics,vision]
 categories: []
-date: 2019-12-04T09:20:33+01:00
+date: 2019-06-15T09:20:33+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

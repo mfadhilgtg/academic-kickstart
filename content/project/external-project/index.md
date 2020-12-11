@@ -2,15 +2,15 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: Team CoSTAR for DARPA SubT Challenge
-summary: The SubT Challenge require team of robots to rapidly explore, map, navigate  and  search  underground  environments  with  minimal  command  from  a  single  human supervisor.
+summary: The DARPA Subterranean Challenge seeks novel approaches to rapidly map, navigate, and search underground environments during time-sensitive operations or disaster response scenarios.
 authors: []
 tags: [robotics]
 categories: []
 featured: true
-date: 2019-11-17T07:33:13+01:00
+date: 2019-09-01T07:33:13+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://subt.jpl.nasa.gov/
+external_link: https://costar.jpl.nasa.gov/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -40,4 +40,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Terrestrial  underground  robotic  exploration  has  gained  popularity  from  DARPA  Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate  and  search  underground  environments  with  minimal  command  from  a  single  human supervisor.  The  SubT  Challenge  environments  are  ranging  from  mining  tunnels,  abandoned nuclear power plant, and natural caves, where robot deployment are important for human safety in various scenarios.
+Terrestrial  underground  robotic  exploration  has  gained  popularity  from  DARPA  Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate  and  search  underground  environments  with  minimal  command  from  a  single  human supervisor.  The  SubT  Challenge  environments  are  ranging  from  mining  tunnels,  abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios.

@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Multi Camera DeeptTAM"
-summary: "3D Vision Project to extend DeepTAM for Multi Camera"
+summary: "3D Vision Project to extend Deep Tracking and Mapping (DeepTAM) system for Multi Camera"
 authors: []
-tags: [vision]
+tags: [robotics,vision]
 categories: []
-date: 2019-12-04T09:20:18+01:00
+date: 2019-05-15T09:20:18+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/surirohit/multi-camera-deeptam"

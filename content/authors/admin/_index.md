@@ -21,9 +21,9 @@ organizations:
 bio: Visiting Robotics Researcher at NASA Jet Propulsion Laboratory.
 
 interests:
-- Mobile Robotics
-- Computer Vision
+- Robotics
 - Artificial Intelligence
+- Machine Learning
 
 
 education:

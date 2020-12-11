@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Team CoSTAR led by NASA JPL win DARPA Subterranean Challenge Urban Circuit"
+title: "Team CoSTAR led by NASA JPL win DARPA Subterranean Challenge Urban Circuit" 
 event:
 event_url:
 location: Seattle, WA

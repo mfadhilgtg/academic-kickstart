@@ -20,7 +20,7 @@ date: 2016-05-15
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-04-26T02:34:33+02:00
+publishDate: 2021-04-26T02:34:33+02:00
 
 authors: []
 tags: []
@@ -48,7 +48,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: 
+url_pdf:
 url_video:
 
 # Markdown Slides (optional).

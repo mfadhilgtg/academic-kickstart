@@ -8,7 +8,7 @@ tags:
 - vision
 categories: []
 featured: true
-date: 2019-11-16T07:33:13+01:00
+date: 2019-03-01T07:33:13+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.ethjuniors.ch/en/who-we-are
