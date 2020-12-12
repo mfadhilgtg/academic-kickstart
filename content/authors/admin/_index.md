@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: NASA JPL Robotics Researcher
+role: Visiting Robotics Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Graduate Student at ETH Zurich
+- name: NASA Jet Propulsion Laboratory
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,18 +22,19 @@ bio: Visiting Robotics Researcher at NASA Jet Propulsion Laboratory.
 
 interests:
 - Robotics
-- Artificial Intelligence
 - Machine Learning
+- Artificial Intelligence
+
 
 
 education:
   courses:
-  - course: MSc in Robotics, System, and Control
-    institution: ETH Zurich
-    year: 2018-Now
-  - course: BSc in Electrical Engineering
-    institution: Bandung Institute of Technology
-    year: 2013-2017
+  - institution: MSc in Robotics, System, and Control
+    course: ETH Zurich
+    #year: 2018-Now
+  - institution: BSc in Electrical Engineering
+    course: Bandung Institute of Technology
+    #year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -64,6 +65,9 @@ user_groups:
 - Researchers
 - Visitors
 - Grad Students
+#Hello my name is Fadhil, Graduate Student at ETH Zurich with a passion for Robotics and AI. I'm currently working at NASA Jet Propulsion Lab as a Visiting Researcher in Pasadena, California.
 ---
 
-Hello my name is Fadhil, Graduate Student at ETH Zurich with a passion for Robotics and AI. I'm currently working at NASA Jet Propulsion Lab as a Visiting Researcher in Pasadena, California.
+I'm a Visiting Robotics Researcher at NASA Jet Propulsion Laboratory in Pasadena, CA, developing robotic autonomy algorithms for autonomous exploration of extreme environments. I'm interested in enabling robots to autonomously learn, adapt, and plan in complex real-world environments.
+
+I recently completed a joint Master's thesis at NASA JPL and in Autonomous System Lab (ASL) at ETH Zurich, supervised by Dr. Ali Agha, Dr. Juan Nieto, and Prof. Roland Siegwart. Before graduate school, I studied Electrical Engineering, focusing on Robotics and Control, at Bandung Institute of Technology (ITB).  

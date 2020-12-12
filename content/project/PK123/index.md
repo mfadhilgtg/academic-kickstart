@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "AR-0 Robot Mascot"
-summary: "Personal Robot of LPDP Scholarship Awardee batch 123(PK 123)"
+summary: "Personal Robot of LPDP Scholarship Awardee batch 123 (PK 123)"
 authors: []
 tags: [robotics]
 categories: []

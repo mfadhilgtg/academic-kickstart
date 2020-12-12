@@ -16,10 +16,10 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 20
+  weight = 30
 
 [[main]]
-  name = "Selected Works"
+  name = "Featured Works"
   url = "#featured"
   weight = 10
 
@@ -36,11 +36,11 @@
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 50
+  weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-   name = "Resume"
-   url = "files/Resume_Fadhil.pdf"
+   name = "Curriculum Vitae"
+   url = "files/CV_M_Fadhil_Ginting.pdf"
    weight = 70

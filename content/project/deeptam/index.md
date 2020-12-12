@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Multi Camera DeeptTAM"
+title: "Multi Camera Deep Tracking and Mapping"
 summary: "3D Vision Project to extend Deep Tracking and Mapping (DeepTAM) system for Multi Camera"
 authors: []
 tags: [robotics,vision]

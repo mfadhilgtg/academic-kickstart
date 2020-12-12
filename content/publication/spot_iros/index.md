@@ -13,11 +13,11 @@ authors:
 - J. Burdick
 - A. Agha-Mohammadi
 
-date: "2020-08-01T07:41:18+01:00"
+date: "2020-12-10T07:41:18+01:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-01T07:41:18+01:00"
+publishDate: "2020-12-12T07:41:18+01:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -52,7 +52,7 @@ url_video: https://youtu.be/_HpWIhFFD54
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Spot with JPL NeBula payload'
+  caption: 'Autonomous Spot with JPL NeBula payload'
   focal_point: ""
   preview_only: false
 
