@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Building Robots to Explore Earth and Space"
+title: "A video from my sharing session with PPI Swiss and Liechtenstein"
 event: Perhimpunan Pelajar Indonesia (PPI) di Swiss
 event_url: https://pelajarindonesia.ch/
 location:
@@ -11,8 +11,9 @@ address:
   region:
   postcode:
   country:
-summary: Sharing session in Profile of the Month of PPI Swiss dan Lichtenstein
-abstract: Repost from ppiswissdanliechtenstein instagram post. Halo sobat PPI Swiss dan Liechtenstein! . Akan ada Instagram Live kedua nih untuk program kami yang berjudul Profile of the Month! Setiap bulannya kami akan mengupas tuntas perjalanan inspiratif rekan PPI Swiss dan Liechtenstein. Untuk edisi kali ini (Oktober) akan ada Muhammad Fadhil Ginting, S.T. yang akan menceritakan pengalamannya mengemban studi serta pengalaman kerja magang di salah satu lembaga antariksa terpopuler di dunia. Yuk, jangan lewatkan Profile of the Month October Edition . Dimoderatori oleh Yonika Larasati, Divisi Pendidikan, PPI Swiss dan Liechtenstein. Jangan lupa tanggal dan waktunya ya! Salam perhimpunan!
+summary: Profile of the Month, Building Robots to Explore Earth and Space
+
+abstract:
 
 
 # Talk start and end times.
@@ -26,6 +27,8 @@ publishDate: 2019-11-17T07:38:31+01:00
 
 authors: []
 tags: []
+
+external_link: "https://youtu.be/JtZzIlaSGiw"
 
 # Is this a featured talk? (true/false)
 featured: false

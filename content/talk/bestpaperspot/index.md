@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "I am delighted that my team CoSTAR Team CoSTAR led by NASA JPL won DARPA Subterranean Challenge Urban Circuit!"
+title: "I am honored that my paper in Autonomou Spot won IEEE IROS Best Paper Award in Safety, Security, and Rescue Robotics"
 event:
 event_url:
-location: Seattle, WA
+location:
 address:
   street:
   city:
@@ -16,16 +16,11 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-02-26
-#date_end: 2020-04-26T02:25:14+02:00
+date: 2020-10-25
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-04-26T02:25:14+02:00
-
-external_link: "https://www.jpl.nasa.gov/news/news.php?feature=7607"
-
-
+publishDate: 2020-12-18T07:36:46+01:00
 
 authors: []
 tags: []
@@ -54,7 +49,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://youtu.be/_HpWIhFFD54
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

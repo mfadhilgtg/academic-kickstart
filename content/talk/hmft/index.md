@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Topsus C HMFT ITB"
-event: Himpunan Mahasiswa Fisika Teknik ITB
+title: "Slides of my talk to HMFT ITB"
+event: 
 event_url:
 location:
 address:
@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: Quest for Robotics Researcher, Sharing session with HMFT ITB
+summary: Quest for Robotics Researcher
 abstract:
 
 # Talk start and end times.

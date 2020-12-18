@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Team CoSTAR for DARPA SubT Challenge
+title: NASA JPL Team CoSTAR for DARPA SubT Challenge
 summary: The DARPA Subterranean Challenge seeks novel approaches to rapidly map, navigate, and search underground environments during time-sensitive operations or disaster response scenarios.
 authors: []
 tags: [robotics]

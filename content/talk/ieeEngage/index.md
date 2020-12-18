@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IEEEngage: NASA Edition"
+title: "I gave a career talk to IEEE Student Branch Community"
 event: IEEE Student Branch ITB
 event_url:
 location:
@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: Sharing session with IEEE Student Branch Community
+summary: IEEEngage NASA Edition
 abstract:
 
 # Talk start and end times.

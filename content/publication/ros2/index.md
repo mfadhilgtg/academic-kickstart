@@ -20,9 +20,9 @@ publishDate: "2020-12-11T07:41:18+01:00"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Robotics and Automation Letters (RA-L), 2020."
+publication: ""
 
-abstract: (Under Review) IEEE Robotics and Automation Letters (RA-L), 2020.    
+abstract: (Under Review) IEEE Robotics and Automation Letters (RA-L).    
 
 
 #Abstract — A well-structured and reliable communication system is key to the successful operations of multi-robot systems.In  this  paper,  we  present  our  design  and  implementation  of a  multi-robot  communication  architecture  CHORD  (Collaborative  High-bandwidth  Operations  with  Radio  Droppables)based on two popular robotics middleware, ROS 1 and ROS 2.We  discuss  the  benefit  and  best  practices  of  combining  two different  frameworks  that  share  the  same  spirit  and  showits  performance  from  large-scale  real-world  experiments.  The proposed system is developed as part of Team CoSTAR’s effort for  the  DARPA  Subterranean  (SubT)  Challenge.  The  system has  been  field-proved  and  demonstrated  in  the  Urban  Circuitevent, where team CoSTAR won first place. From the significant improvement  of  the  communication  performance  and  the  ease of transition from existing ROS 1 systems, this work encourages wider  adoption  of  ROS  2  in  field  robotics  applications

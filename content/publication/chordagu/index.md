@@ -38,7 +38,7 @@ featured: false
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1gtQRkbJBVRrcvxIHcZNKQfcM0kJdb5ch/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''

@@ -1,31 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "I am delighted that my team CoSTAR Team CoSTAR led by NASA JPL won DARPA Subterranean Challenge Urban Circuit!"
+title: "My research proposal with the JPL team is featured in Live Science!"
 event:
 event_url:
-location: Seattle, WA
+location:
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
+summary: Meet Au-Spot, the AI robot dog that's training to explore caves on Mars
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-02-26
-#date_end: 2020-04-26T02:25:14+02:00
+date: 2020-12-18
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-04-26T02:25:14+02:00
+publishDate: 2020-12-18T07:27:50+01:00
 
-external_link: "https://www.jpl.nasa.gov/news/news.php?feature=7607"
-
-
+external_link: "https://www.livescience.com/agu-mars-robot-dogs.html?fbclid=IwAR1UYijKg8Rykis3DgFox5dtVb_vIeKktkGp38IN_ckV6k56AeSWp8mdSd0"
 
 authors: []
 tags: []
@@ -43,18 +40,13 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
 
 url_code:
 url_pdf:
-url_video: https://youtu.be/_HpWIhFFD54
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

@@ -1,34 +1,31 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "I am delighted that my team CoSTAR Team CoSTAR led by NASA JPL won DARPA Subterranean Challenge Urban Circuit!"
+title: "I contributed to JPL Team CoSTAR article in IEEE Spectrum"
 event:
 event_url:
-location: Seattle, WA
+location:
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
+summary: How JPL's Team CoSTAR Won the DARPA SubT Challenge, Urban Circuit Systems Track.
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-02-26
-#date_end: 2020-04-26T02:25:14+02:00
+date: 2020-11-18
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-04-26T02:25:14+02:00
-
-external_link: "https://www.jpl.nasa.gov/news/news.php?feature=7607"
-
-
+publishDate: 2020-12-18T07:33:29+01:00
 
 authors: []
 tags: []
+
+external_link: "https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-jpl-team-costar-darpa-subt-urban-circuit-systems-track"
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -54,7 +51,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://youtu.be/_HpWIhFFD54
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
