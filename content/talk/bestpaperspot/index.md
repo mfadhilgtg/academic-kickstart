@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "I am honored that my paper in Autonomou Spot won IEEE IROS Best Paper Award in Safety, Security, and Rescue Robotics"
+title: "I am honored that my paper on Autonomous Spot won IEEE IROS Best Paper Award in Safety, Security, and Rescue Robotics"
 event:
 event_url:
 location:
