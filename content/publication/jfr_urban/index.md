@@ -1,17 +1,14 @@
 ---
-title: "CHORD: Distributed Data-sharing via Hybrid ROS 1 and 2 for Multi-robot Exploration of Large-scale Complex Environments"
+#title: “NeBula: Quest for Robotic Autonomy in Challenging Environments, TEAM CoSTAR at the DARPA Subterranean Challenge”
+title: "NeBula: Quest for Robotic Autonomy in Challenging Environments, TEAM CoSTAR at the DARPA Subterranean Challenge"
 authors:
-- M. Ginting
-- K. Otsu
-- J. Edlund
-- J. Gao
-- A. Agha-Mohammadi
+- A. Agha-Mohammadi, et al.
 
-date: "2021-01-09T07:41:18+01:00"
+date: "2021-2-10T07:41:18+01:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-11T07:41:18+01:00"
+publishDate: "2021-02-12T07:41:18+01:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,12 +17,9 @@ publishDate: "2020-12-11T07:41:18+01:00"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Under review for the Field Robotics Special Issue in Advancements and lessons learned during Phase I & II of the DARPA Subterranean Challenge."
 
-abstract: IEEE Robotics and Automation Letters (RA-L), 2021    
-
-
-#Abstract — A well-structured and reliable communication system is key to the successful operations of multi-robot systems.In  this  paper,  we  present  our  design  and  implementation  of a  multi-robot  communication  architecture  CHORD  (Collaborative  High-bandwidth  Operations  with  Radio  Droppables)based on two popular robotics middleware, ROS 1 and ROS 2.We  discuss  the  benefit  and  best  practices  of  combining  two different  frameworks  that  share  the  same  spirit  and  showits  performance  from  large-scale  real-world  experiments.  The proposed system is developed as part of Team CoSTAR’s effort for  the  DARPA  Subterranean  (SubT)  Challenge.  The  system has  been  field-proved  and  demonstrated  in  the  Urban  Circuitevent, where team CoSTAR won first place. From the significant improvement  of  the  communication  performance  and  the  ease of transition from existing ROS 1 systems, this work encourages wider  adoption  of  ROS  2  in  field  robotics  applications
+abstract: Under review for the Field Robotics Special Issue in advancements and lessons learned during Phase I & II of the DARPA Subterranean Challenge.
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -37,19 +31,19 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://drive.google.com/file/d/1QMgS6tilcWkNhCEPxk9rlETOr7U6ZeSw/view?usp=sharing
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: https://youtu.be/O2jR2uT5o1Y
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'CHORD System Architecture'
+  caption: 'NeBula System Architecture'
   focal_point: ""
   preview_only: false
 
