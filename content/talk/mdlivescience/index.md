@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My research proposal with the JPL team is featured in Live Science!"
+title: Meet Au-Spot, the AI robot dog that's training to explore caves on Mars
 event:
 event_url:
 location:
@@ -11,13 +11,13 @@ address:
   region:
   postcode:
   country:
-summary: Meet Au-Spot, the AI robot dog that's training to explore caves on Mars
+summary: My research proposal with the JPL team is featured in Live Science!
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-12-18
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-12-18T07:27:50+01:00

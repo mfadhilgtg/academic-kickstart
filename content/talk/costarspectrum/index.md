@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "I contributed to JPL Team CoSTAR article in IEEE Spectrum"
+title: How JPL's Team CoSTAR Won the DARPA SubT Challenge, Urban Circuit Systems Track.
 event:
 event_url:
 location:
@@ -11,13 +11,13 @@ address:
   region:
   postcode:
   country:
-summary: How JPL's Team CoSTAR Won the DARPA SubT Challenge, Urban Circuit Systems Track.
+summary: I contributed to JPL Team CoSTAR article in IEEE Spectrum
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-11-18
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-12-18T07:33:29+01:00

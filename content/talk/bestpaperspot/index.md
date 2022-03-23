@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "I am honored that my paper on Autonomous Spot won IEEE IROS Best Paper Award in Safety, Security, and Rescue Robotics"
+title: "Our Autonomous Spot paper won IEEE IROS Best Paper Award in Safety, Security, and Rescue Robotics"
 event:
 event_url:
 location:
@@ -17,7 +17,7 @@ abstract:
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-10-25
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-12-18T07:36:46+01:00

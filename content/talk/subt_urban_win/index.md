@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "I am delighted that my team CoSTAR Team CoSTAR led by NASA JPL won DARPA Subterranean Challenge Urban Circuit!"
+title: Team CoSTAR led by NASA JPL won DARPA Subterranean Challenge Urban Circuit!
 event:
 event_url:
 location: Seattle, WA
@@ -18,7 +18,7 @@ abstract:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-02-26
 #date_end: 2020-04-26T02:25:14+02:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-04-26T02:25:14+02:00
